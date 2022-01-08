@@ -1,6 +1,6 @@
 # Colorizing_Images
 
-Built and trained a autoencoder neural network in Keras with TensorFlow as backend. Autoencoder stores this representation in the latent space with very few dimensions compared to the input image.
+Built and trained an autoencoder neural network in Keras with TensorFlow as backend. Autoencoder stores the input image representation in the latent space with very few dimensions compared to the input image.
 
 The Decoder block of autoencoder consists of an output layer that gives the reconstructed image and some hidden layers, generally a combination of Convolutional Transpose Layers and Upsampling layers. In the Decoder block, the autoencoder learns the reconstruction of the original image from the previously learned latent space.
 
