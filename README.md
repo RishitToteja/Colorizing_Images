@@ -8,11 +8,11 @@ In this project, tweaked the Autoencoder Neural Network in such a manner that wh
 
 The project performed significantly well on converting grayscale images to colored rgb images. Some of the results can be seen below: 
 
-![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test_Images/test_car.png)
-![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test_Images/test_cat.png)
-![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test_Images/test_dog_1.png)
-![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test_Images/test_dog_2.png)
-![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test_Images/test_flower_1.png)
-![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test_Images/test_flower_2.png)
-![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test_Images/test_person_female.png)
-![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test_Images/test_person_male.png)
+![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test%20Images/test_car.png)
+![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test%20Images/test_cat.png)
+![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test%20Images/test_dog_1.png)
+![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test%20Images/test_dog_2.png)
+![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test%20Images/test_flower_1.png)
+![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test%20Images/test_flower_2.png)
+![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test%20Images/test_person_female.png)
+![image](https://github.com/RishitToteja/Colorizing_Images/blob/main/Test%20Images/test_person_male.png)
